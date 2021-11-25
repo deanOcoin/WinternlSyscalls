@@ -121,12 +121,3 @@
 	SysNtSetInformationKey endp
 
 end
-
-
-
-
-
-
-
-
-
