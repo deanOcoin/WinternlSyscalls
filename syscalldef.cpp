@@ -114,19 +114,3 @@ EXTERN_C NTSTATUS SysNtSetInformationKey(
 	KEY_SET_INFORMATION_CLASS KeySetInformationClass,
 	PVOID KeySetInformation,
 	ULONG KeySetInformationLength);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
